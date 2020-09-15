@@ -1,9 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Landing from './Components/Landing/Landing';
 
 function App() {
-    return <div className="App">Yoga Vidya</div>;
+    return (
+        <div className="App">
+            <Landing />
+            <div className="all"></div>
+        </div>
+    );
 }
 
 export default App;
