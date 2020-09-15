@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yogvidya-pages/precache-manifest.5258dbf306d4cf72ffb578ec998191ca.js"
+  "/yogvidya-pages/precache-manifest.d32e9e2d7557918326d6b8d5ea141c7a.js"
 );
 
 self.addEventListener('message', (event) => {
