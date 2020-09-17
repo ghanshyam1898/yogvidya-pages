@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/yogvidya-pages/static/css/main.edb2c5c4.chunk.css",
-    "main.js": "/yogvidya-pages/static/js/main.f0f3f6db.chunk.js",
-    "main.js.map": "/yogvidya-pages/static/js/main.f0f3f6db.chunk.js.map",
+    "main.css": "/yogvidya-pages/static/css/main.dff75b9e.chunk.css",
+    "main.js": "/yogvidya-pages/static/js/main.e47e03bb.chunk.js",
+    "main.js.map": "/yogvidya-pages/static/js/main.e47e03bb.chunk.js.map",
     "runtime-main.js": "/yogvidya-pages/static/js/runtime-main.504268a1.js",
     "runtime-main.js.map": "/yogvidya-pages/static/js/runtime-main.504268a1.js.map",
     "static/js/2.7e3c39e6.chunk.js": "/yogvidya-pages/static/js/2.7e3c39e6.chunk.js",
     "static/js/2.7e3c39e6.chunk.js.map": "/yogvidya-pages/static/js/2.7e3c39e6.chunk.js.map",
     "index.html": "/yogvidya-pages/index.html",
-    "precache-manifest.d32e9e2d7557918326d6b8d5ea141c7a.js": "/yogvidya-pages/precache-manifest.d32e9e2d7557918326d6b8d5ea141c7a.js",
+    "precache-manifest.5cf0feb4754555dee6afc980c79b63a9.js": "/yogvidya-pages/precache-manifest.5cf0feb4754555dee6afc980c79b63a9.js",
     "service-worker.js": "/yogvidya-pages/service-worker.js",
-    "static/css/main.edb2c5c4.chunk.css.map": "/yogvidya-pages/static/css/main.edb2c5c4.chunk.css.map",
+    "static/css/main.dff75b9e.chunk.css.map": "/yogvidya-pages/static/css/main.dff75b9e.chunk.css.map",
     "static/js/2.7e3c39e6.chunk.js.LICENSE.txt": "/yogvidya-pages/static/js/2.7e3c39e6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.504268a1.js",
     "static/js/2.7e3c39e6.chunk.js",
-    "static/css/main.edb2c5c4.chunk.css",
-    "static/js/main.f0f3f6db.chunk.js"
+    "static/css/main.dff75b9e.chunk.css",
+    "static/js/main.e47e03bb.chunk.js"
   ]
 }
