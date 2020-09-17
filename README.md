@@ -1,5 +1,6 @@
 This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
+View the deployyment [here](https://ghanshyam1898.github.io/yogvidya-pages/)
 ## Available Scripts
 
 In the project directory, you can run:
