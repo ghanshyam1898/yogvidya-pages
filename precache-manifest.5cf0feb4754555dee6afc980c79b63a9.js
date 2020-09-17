@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39c4d7b5ad079b1cf87c5a4845f5840e",
+    "revision": "88173ab74b16d16e6bc39e8be1667812",
     "url": "/yogvidya-pages/index.html"
   },
   {
-    "revision": "3c998711264913f27ce9",
-    "url": "/yogvidya-pages/static/css/main.edb2c5c4.chunk.css"
+    "revision": "476ee69ec97d33e1a850",
+    "url": "/yogvidya-pages/static/css/main.dff75b9e.chunk.css"
   },
   {
     "revision": "dd4ea6cacb8e816f6b3d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yogvidya-pages/static/js/2.7e3c39e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c998711264913f27ce9",
-    "url": "/yogvidya-pages/static/js/main.f0f3f6db.chunk.js"
+    "revision": "476ee69ec97d33e1a850",
+    "url": "/yogvidya-pages/static/js/main.e47e03bb.chunk.js"
   },
   {
     "revision": "bd4b97873538a5e7be6e",
