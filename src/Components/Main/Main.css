@@ -1,0 +1,18 @@
+.main__body {
+    padding: 0 200px;
+}
+
+.about__grid {
+    padding-top: 80px;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr) [grid-end];
+    grid-gap: 24px;
+}
+
+.about__grid h2 {
+    grid-column: span 3;
+}
+
+.about__grid p {
+    grid-column: span 5;
+}
